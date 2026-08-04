@@ -8,7 +8,7 @@ const certificates = [
     title: "Communicating with Impact",
     issuer: "IBM SkillsBuild",
     date: "Oct 2023",
-    image: "/certificates/communicating-with-impact.jpg",
+    image: "/certificates/communicating-with-impact.png",
     certificate: "/certificates/communicating-with-impact.pdf",
   },
   {
