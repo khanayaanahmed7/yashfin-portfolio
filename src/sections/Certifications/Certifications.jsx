@@ -13,6 +13,14 @@ const certificates = [
   },
   {
     id: 2,
+    title: "Edunet",
+    issuer: "SkillsBuild Orientation • IBM SkillsBuild",
+    date: "Oct 2023",
+    image: "/certificates/edunet.png",
+    certificate: "/certificates/edunet.pdf",
+  },
+  {
+    id: 3,
     title: "Build Your First Web Pages with HTML & CSS",
     issuer: "OpenClassrooms • IBM SkillsBuild",
     date: "Nov 2023",
@@ -20,7 +28,7 @@ const certificates = [
     certificate: "/certificates/html-css.pdf",
   },
   {
-    id: 3,
+    id: 4,
     title: "Data Skills 3 Day Challenge",
     issuer: "Crion Versity • IIT Madras Alumni",
     date: "Aug 2024",
@@ -28,7 +36,7 @@ const certificates = [
     certificate: "/certificates/data-skills.pdf",
   },
   {
-    id: 4,
+    id: 5,
     title: "Learn Python Tutorial",
     issuer: "W3Schools • IBM SkillsBuild",
     date: "Jan 2025",
@@ -36,7 +44,7 @@ const certificates = [
     certificate: "/certificates/python.pdf",
   },
   {
-    id: 5,
+    id: 6,
     title: "Cyber Job Simulation",
     issuer: "Deloitte",
     date: "Jun 2025",
@@ -44,7 +52,7 @@ const certificates = [
     certificate: "/certificates/cyber-job.pdf",
   },
   {
-    id: 6,
+    id: 7,
     title: "Solutions Architecture Job Simulation",
     issuer: "Amazon Web Services (AWS)",
     date: "Jun 2025",
