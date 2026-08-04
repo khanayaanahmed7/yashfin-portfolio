@@ -16,7 +16,7 @@ const certificates = [
     title: "Build Your First Web Pages with HTML & CSS",
     issuer: "OpenClassrooms • IBM SkillsBuild",
     date: "Nov 2023",
-    image: "/certificates/html-css.jpg",
+    image: "/certificates/html-css.png",
     certificate: "/certificates/html-css.pdf",
   },
   {
