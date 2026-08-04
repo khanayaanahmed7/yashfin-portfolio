@@ -85,7 +85,7 @@ const Contact = () => {
           <div className="contact-buttons">
 
             <a
-              href="/resume.pdf"
+              href="/Resume - Yashfin Shaikh.pdf"
               download
               className="primary-btn"
             >
