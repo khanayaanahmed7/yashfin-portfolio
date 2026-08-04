@@ -48,9 +48,9 @@ const projects = [
 
   {
     id: 3,
-    title: "E-Commerce Website",
+    title: "E-Commerce Website - Team Project (2 Members)",
     duration: "Nov 2024 - Dec 2024",
-    organization: "Team Project (2 Members)",
+    organization: "MSG-SGKM College of Arts, Science and Commerce",
     description:
       "Frontend-focused e-commerce website with user registration, login and email handling.",
     tech: [
@@ -58,7 +58,7 @@ const projects = [
       "CSS",
       "JavaScript",
     ],
-    image: "/projects/project3.png",
+    image: "/projects/attireyard.png",
     github: "#",
     live: "#",
   },
