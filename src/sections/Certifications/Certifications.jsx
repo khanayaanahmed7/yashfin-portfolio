@@ -24,7 +24,7 @@ const certificates = [
     title: "Data Skills 3 Day Challenge",
     issuer: "Crion Versity • IIT Madras Alumni",
     date: "Aug 2024",
-    image: "/certificates/data-skills.jpg",
+    image: "/certificates/data-skills.png",
     certificate: "/certificates/data-skills.pdf",
   },
   {
@@ -32,7 +32,7 @@ const certificates = [
     title: "Learn Python Tutorial",
     issuer: "W3Schools • IBM SkillsBuild",
     date: "Jan 2025",
-    image: "/certificates/python.jpg",
+    image: "/certificates/python.png",
     certificate: "/certificates/python.pdf",
   },
   {
@@ -40,16 +40,16 @@ const certificates = [
     title: "Cyber Job Simulation",
     issuer: "Deloitte",
     date: "Jun 2025",
-    image: "/certificates/deloitte.jpg",
-    certificate: "/certificates/deloitte.pdf",
+    image: "/certificates/cyber-job.png",
+    certificate: "/certificates/cyber-job.pdf",
   },
   {
     id: 6,
     title: "Solutions Architecture Job Simulation",
     issuer: "Amazon Web Services (AWS)",
     date: "Jun 2025",
-    image: "/certificates/aws.jpg",
-    certificate: "/certificates/aws.pdf",
+    image: "/certificates/solns-arch-job.png",
+    certificate: "/certificates/solns-arch-job.pdf",
   },
 ];
 
