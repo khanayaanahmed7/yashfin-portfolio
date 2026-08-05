@@ -90,7 +90,32 @@ const About = () => {
 
           <div className="relative border-l-2 border-blue-500/30 pl-8">
 
-            {/* B.Sc */}
+            {/* MCA */}
+            <div className="relative mb-12">
+              <div className="absolute -left-[42px] top-2 h-5 w-5 rounded-full border-4 border-slate-900 bg-blue-500"></div>
+
+              <p className="text-sm uppercase tracking-widest text-blue-400">
+                Aug 2026 - Apr 2028 (Expected)
+              </p>
+
+              <h4 className="mt-2 text-2xl font-bold text-white">
+                Masters of Computer Applications
+              </h4>
+
+              <p className="mt-2 text-slate-300">
+                DY Patil University, Navi Mumbai
+              </p>
+
+              <p className="text-slate-500">
+                DY Patil Deemed to be University
+              </p>
+
+              <span className="mt-4 inline-block rounded-full bg-blue-500/10 px-4 py-2 text-blue-400">
+                CGPI : NA
+              </span>
+            </div>
+
+            {/* B.Sc CS */}
             <div className="relative mb-12">
               <div className="absolute -left-[42px] top-2 h-5 w-5 rounded-full border-4 border-slate-900 bg-blue-500"></div>
 
