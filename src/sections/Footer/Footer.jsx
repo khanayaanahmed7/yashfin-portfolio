@@ -65,7 +65,7 @@ const Footer = () => {
             </a>
 
             <a
-              href="mailto:yashfinshaikh77@gmail.com"
+              href="mailto:shaikhyashfin913@gmail.com"
             >
               <Mail size={22}/>
             </a>
