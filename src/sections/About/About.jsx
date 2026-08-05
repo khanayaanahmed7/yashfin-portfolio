@@ -95,11 +95,11 @@ const About = () => {
               <div className="absolute -left-[42px] top-2 h-5 w-5 rounded-full border-4 border-slate-900 bg-blue-500"></div>
 
               <p className="text-sm uppercase tracking-widest text-blue-400">
-                Aug 2026 - Apr 2028 (Expected)
+                Aug 2026 - Apr 2028 · Pursuing
               </p>
 
               <h4 className="mt-2 text-2xl font-bold text-white">
-                Masters of Computer Applications · Pursuing
+                Masters of Computer Applications
               </h4>
 
               <p className="mt-2 text-slate-300">
