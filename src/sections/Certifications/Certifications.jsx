@@ -38,7 +38,7 @@ const certificates = [
   {
     id: 5,
     title: "Learn Python Tutorial",
-    issuer: "w3Schools • IBM SkillsBuild",
+    issuer: "w3schools • IBM SkillsBuild",
     date: "Jan 2025",
     image: "/certificates/python.png",
     certificate: "/certificates/python.pdf",
