@@ -99,7 +99,7 @@ const About = () => {
               </p>
 
               <h4 className="mt-2 text-2xl font-bold text-white">
-                Masters of Computer Applications
+                Masters of Computer Applications · Pursuing
               </h4>
 
               <p className="mt-2 text-slate-300">
